@@ -7,3 +7,5 @@
 # 1. uname 
 
 # 2. whoami
+
+# 3. ls
