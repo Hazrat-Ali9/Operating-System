@@ -24,3 +24,5 @@
 
 # 10. mkdir ./text.text || mkdir ./def.text
 
+# 11. echo " ICH LIEBE DICH " > hazrat file name --> hazrat.txt
+
