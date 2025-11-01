@@ -15,3 +15,5 @@
 # 5. pwd
 
 # 6. cd run
+
+# cd ./home/ubuntu
