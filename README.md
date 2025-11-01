@@ -20,3 +20,5 @@
 
 # 8. cd ./Desktop
 
+# 9. mkdir ./hazrat ( file name )
+
