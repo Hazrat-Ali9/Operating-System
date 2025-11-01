@@ -22,3 +22,5 @@
 
 # 9. mkdir ./hazrat ( file name )
 
+# 10. mkdir ./text.text || mkdir ./def.text
+
