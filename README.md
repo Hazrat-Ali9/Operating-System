@@ -16,4 +16,5 @@
 
 # 6. cd run
 
-# cd ./home/ubuntu
+# 7. cd ./home/ubuntu
+
