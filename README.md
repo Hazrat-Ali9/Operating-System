@@ -18,3 +18,5 @@
 
 # 7. cd ./home/ubuntu
 
+# 8. cd ./Desktop
+
